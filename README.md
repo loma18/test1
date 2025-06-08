@@ -1,2 +1,1 @@
-# test1
-A test repository created via AI assistant.
+通过cursor的github MCP创建和提交
